@@ -1,0 +1,6 @@
+{
+  "name": "JanSanket AI — Turning Civic Problems into Community Action",
+  "description": "AI-assisted geospatial civic reporting and transparent prioritization platform for citizen problems and local infrastructure.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
